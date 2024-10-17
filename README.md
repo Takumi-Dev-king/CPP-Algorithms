@@ -37,7 +37,7 @@ To get started with the algorithms in this repository, you’ll need:
    ```bash
    git clone https://github.com/yourusername/CPP-Algorithms-Collections.git
    cd CPP-Algorithms-Collections
-  ```
+   ```
 
 ### CONTRIBUTING.md
 
